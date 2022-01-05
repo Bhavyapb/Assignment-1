@@ -1,0 +1,22 @@
+main{
+    padding: 30px;
+    background-color: rgb(154, 226, 231);
+   
+}
+#contact{
+    border-top: 1px solid black;
+    font-size: 40px;
+    background-color: azure;
+}
+#about-info{
+    font-size: 16px;
+    font-family:Arial, Helvetica, sans-serif;
+    line-height: 2em;
+}
+#images{
+    display: flex;
+    justify-content: flex-start;
+    justify-content: space-around;
+   
+}
+
